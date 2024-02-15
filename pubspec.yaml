@@ -1,0 +1,44 @@
+name: to_do
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  cupertino_icons: ^1.0.2
+  msh_checkbox: ^1.1.1
+  time_pickerr: ^1.0.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^1.1.3
+  build_runner: ^2.2.0
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  
+  assets:
+    - images/
+
+  
+  fonts:
+    - family: SM
+      fonts:
+        - asset: assets/fonts/ShabnamMedium.ttf
+          weight: 500
+ 
