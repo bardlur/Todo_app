@@ -1,4 +1,5 @@
-# ToDo
+# Flutter : ToDo App
+Manage your Activites by this app
 
 ## Image:
 
